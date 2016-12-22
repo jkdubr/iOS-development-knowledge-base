@@ -1,6 +1,8 @@
 # iOS development notes, links and favourite tools
 
 ## iOS development
+- https://github.com/vsouza/awesome-ios
+- https://github.com/matteocrippa/awesome-swift
 - https://realm.io/news/nspredicate-cheatsheet/
 - https://github.com/raywenderlich/swift-style-guide
 - https://iosdev.tools
