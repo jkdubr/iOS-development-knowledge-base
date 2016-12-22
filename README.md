@@ -68,7 +68,8 @@ https://github.com/shu223/iOS7-Sampler
 - http://www.raywenderlich.com/tutorials
 - http://nshipster.com/
 
-
+## Beacons
+- https://github.com/beaconinside/awesome-beacon
 
 
 
