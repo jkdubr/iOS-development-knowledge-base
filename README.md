@@ -55,6 +55,7 @@ https://github.com/shu223/iOS7-Sampler
 - https://medium.com/@syshen/create-an-ios-universal-framework-148eb130a46c#.x8l0futl1
 
 ## Tools
+- https://appetize.io
 - http://makeappicon.com
 - https://launchkit.io/screenshots/
 - https://github.com/JiriTrecak/Laurine
