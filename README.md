@@ -1,6 +1,7 @@
 # iOS development notes, links and favourite tools
 
 ## iOS development
+- [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f#.hctdasykr)
 - [33 iOS open source libraries that will dominate 2017](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449#.lmeyzs7ua)
 - https://github.com/vsouza/awesome-ios
 - https://github.com/matteocrippa/awesome-swift
