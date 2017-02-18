@@ -51,16 +51,18 @@ https://github.com/shu223/iOS7-Sampler
 - https://github.com/relatedcode/ParseAlternatives
 
 
-## Frameworks
+## Framework managers
 - http://cocoapods.org
 - https://medium.com/@syshen/create-an-ios-universal-framework-148eb130a46c#.x8l0futl1
+
+## Frameworks
+- https://github.com/square/Valet
 
 ## Tools
 - https://appetize.io
 - http://makeappicon.com
 - https://launchkit.io/screenshots/
 - https://github.com/JiriTrecak/Laurine
-
 
 ## CI
 - https://stanfy.com/blog/making-continuous-integration-more-interesting-and-live/
